@@ -13,5 +13,5 @@ Iso_2-
 ![1713869352500](https://github.com/user-attachments/assets/13bd3013-c73b-4248-b821-38d885f397fe)
 Iso_3-
 ![1713869338454](https://github.com/user-attachments/assets/a98751e0-61c8-4324-a1d6-45b65913c621)
-Iso_4-
+Schematics-
 ![image](https://github.com/user-attachments/assets/56b7a5d6-a999-4875-b59c-891c2e10fcdf)
